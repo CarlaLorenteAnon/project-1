@@ -130,3 +130,6 @@ dmypy.json
 
 # API keys
 config.py
+
+# CSV file
+resources_old/vaccine_data_big.csv
