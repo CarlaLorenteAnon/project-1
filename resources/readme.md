@@ -14,3 +14,11 @@ Source: https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv
 Heart disease data is a rolling three year average from 2017-2019.
 
 Source: https://chronicdata.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/s6p7-fvbw
+
+##### Vaccination Data
+
+Source: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+
+##### Election Data
+
+Source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
