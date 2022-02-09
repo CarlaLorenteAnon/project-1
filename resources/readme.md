@@ -1,6 +1,6 @@
 ### Notes on Datasets
 ##### Census
-The census data was created by running api commands, so has no source and is currently subject to change. 
+The census data was created by utilizing the census api. It includes columns median age, population, and median income organized by county
 
 ##### Covid
 The covid data was sourced from New York Times, and is cumulative i.e. line has form
