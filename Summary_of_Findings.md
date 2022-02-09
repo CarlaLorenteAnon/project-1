@@ -19,7 +19,7 @@
 
 
 **3. How does political affiliation affect vaccination, covid deaths, and heart disease?**
-- There are significant differences in terms of vaccination, death rates, income and heart disease between counties that overall voted Republican in the 2016 Presidential Election and those that voted Democrat.
+- There are significant differences in terms of vaccination, death rates, income and heart disease between counties that overall voted Republican in the 2020 Presidential Election and those that voted Democrat.
 - As seen in the histogram below, Republican counties have significantly lower vaccination rates and higher COVID death rates than the Democratic counties. In the boxplots below, we can also see that Republican counties have higher rates of heart disease and lower income.
 
 ![political_t-tests](output_images/political_t-tests.png)
