@@ -1,5 +1,6 @@
 # project-1
 Folder for project # 1 of Georgia Tech's Data Science and Analytics Bootcamp.
+
 Group Members: Carla, Nikki, Jack, and Eddy
 
 Our Topic: How does the current makeup of the United States affect heart disease rates, covid cases, and covid deaths?
